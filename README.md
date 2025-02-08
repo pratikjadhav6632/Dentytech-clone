@@ -2,7 +2,7 @@
 A responsive and modern clone of the DentyTech website built using HTML, CSS
 
 # Take a look
-<img src=""alt="page-overview">
+<img src="demo"alt="page-overview">
 
 # 🚀 Features
 ✅ Fully Responsive Design
